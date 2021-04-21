@@ -1,4 +1,4 @@
-# midi-to-keystrokes
+# MIDI to Keystrokes
 using my AKAI MPK mini 3 controller to perform basic Linux commands in Ubuntu.
 
 ## Credit
