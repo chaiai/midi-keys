@@ -5,6 +5,12 @@ using my AKAI MPK mini 3 controller to perform basic Linux commands in Ubuntu.
 
 Inspiration from [this post](https://superuser.com/questions/1170136/translating-midi-input-into-computer-keystrokes-on-linux).
 
+# Quickstart
+
+Run this script to configure the script to be executable and opens text editor to edit your password or change commands.
+
+$ bash ./configure.sh
+
 ## List MIDI inputs
 
 aseqdump -l
